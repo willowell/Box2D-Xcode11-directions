@@ -14,6 +14,7 @@ macOS 10.15.1 Catalina, Xcode 11.2.1
     
 1. Open the Box2D directory in a separate Finder window.
 1. Copy the Box2D folder (the one with Box2D.h in it) and paste it into the folder that Xcode opened.
+    ![Copy and paste](https://github.com/willowell/Box2D-Xcode11-directions/blob/master/Copy_and_paste.png)
 1. Select and drag the Box2D.xcodeproj file in Box2D/Build into the folder that Xcode opened as well. Your Xcode project structure should now look like this:
 
 1. Left-click on the xcodeproj file at the top of the project. Xcode will display the build setting for the project. 
