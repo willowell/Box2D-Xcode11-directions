@@ -7,8 +7,8 @@
 After some experimentation with and examinination of the build settings for the HelloWorld.xcodeproj in Box2D that premake5 puts together, I have figured out a way to reproduce HelloWorld.xcodeproj outside of the Box2D directory. 
 
 I am making the following assumptions:
-    Xcode is up-to-date, and you have installed its command line tools.
-    The Testbed.xcodeproj builds and runs with warnings at worst.
+    1. Xcode is up-to-date, and you have installed its command line tools.
+    2. The Testbed.xcodeproj builds and runs with warnings at worst.
 
 1. Follow the build and install instructions for Box2D:
     1. a. Download or clone [Box2D](https://github.com/erincatto/Box2D)
