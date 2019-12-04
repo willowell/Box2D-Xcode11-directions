@@ -4,7 +4,7 @@
 
 **Do you know a better way to do this? Please open an issue!**
 
-After some experimentation and examining the build settings for the HelloWorld.xcodeproj in Box2D that premake5 puts together, I have figured out a way to reproduce HelloWorld.xcodeproj outside of the Box2D directory. 
+After some experimentation with and examinination of the build settings for the HelloWorld.xcodeproj in Box2D that premake5 puts together, I have figured out a way to reproduce HelloWorld.xcodeproj outside of the Box2D directory. 
 
 I am making the following assumptions:
 1. Xcode is up-to-date, and you have installed its command line tools.
